@@ -56,6 +56,7 @@ PSEUDO'sh Scala Template Code:
 --------------
 
 main.scala.html:
+```
 	@(title: String)(content: Html, headerContent: Html = Html(""))
 	<html>
 		<head>
@@ -66,13 +67,16 @@ main.scala.html:
 			@content
 		</body>
 	</html>
-
+```
 admin.scala.html:
+```
 	...?
 	@main(...?)
 	...?
-
+```
 users.scala.html:
+```
 	...?
 	@admin(...?)
 	...?
+```
