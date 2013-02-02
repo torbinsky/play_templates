@@ -37,6 +37,12 @@ This page may also need to include some additional CSS/JS resources.
 
 PSEUDO'sh Scala Template Code:
 --------------
+
 main.scala.html:
 
+
+admin.scala.html:
+
+
+users.scala.html:
 
